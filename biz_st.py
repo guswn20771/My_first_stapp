@@ -116,7 +116,7 @@ chart_data = pd.DataFrame(
     columns=["a", "b", "c"]
     )
 
-'#### :orange [st.area_chart()]'
+'#### :orange[st.area_chart()]'
 st.area_chart(chart_data)
 
 '#### :orange[st.line_chart()]'
